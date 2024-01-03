@@ -1,4 +1,4 @@
-package com.aboylan.springboot.app.usuarios.commons;
+package com.aboylan.springboot.app.commons.usuarios;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
